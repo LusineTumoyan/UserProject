@@ -1,0 +1,12 @@
+C:\Users\Comp\source\repos\UserWPF\UserBusinessLayer\bin\Debug\UserBusinessLayer.dll
+C:\Users\Comp\source\repos\UserWPF\UserBusinessLayer\bin\Debug\UserBusinessLayer.pdb
+C:\Users\Comp\source\repos\UserWPF\UserBusinessLayer\obj\Debug\UserBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Comp\source\repos\UserWPF\UserBusinessLayer\obj\Debug\UserBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\UserWPF\UserBusinessLayer\obj\Debug\UserBusinessLayer.dll
+C:\Users\Comp\source\repos\UserWPF\UserBusinessLayer\obj\Debug\UserBusinessLayer.pdb
+C:\Users\Comp\Desktop\UserWPF\UserWPF\UserBusinessLayer\bin\Debug\UserBusinessLayer.dll
+C:\Users\Comp\Desktop\UserWPF\UserWPF\UserBusinessLayer\bin\Debug\UserBusinessLayer.pdb
+C:\Users\Comp\Desktop\UserWPF\UserWPF\UserBusinessLayer\obj\Debug\UserBusinessLayer.csprojAssemblyReference.cache
+C:\Users\Comp\Desktop\UserWPF\UserWPF\UserBusinessLayer\obj\Debug\UserBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Comp\Desktop\UserWPF\UserWPF\UserBusinessLayer\obj\Debug\UserBusinessLayer.dll
+C:\Users\Comp\Desktop\UserWPF\UserWPF\UserBusinessLayer\obj\Debug\UserBusinessLayer.pdb
